@@ -22,3 +22,23 @@ This repository contains a comprehensive **Exploratory Data Analysis (EDA)** pip
 ### 4. Correlation & Matrix Mapping
 * Computing Pearson/Spearman correlation coefficients to identify heavy multi-collinearity.
 * Plotting colored correlation heatmaps to highlight variables with strong linear relationships to the primary metrics.
+* # Clone the repository
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+
+# Navigate into the project folder
+cd YOUR_REPOSITORY_NAME
+
+# Install the necessary analytical visualization dependencies
+pip install pandas numpy matplotlib seaborn scipy
+python src/data_cleaning.py
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+---
+
+### 💡 Quick Tip for GitHub Commit:
+1. Inside your new repository, click **Add file** -> **Create new file**.
+2. Name the file exactly **`README.md`**.
+3. Paste the markdown block above into the file text box (remember to change `YOUR_USERNAME` and `YOUR_REPOSITORY_NAME` in the script section to match yours).
+4. Scroll down, write a short commit message like `feat: add initial comprehensive project
